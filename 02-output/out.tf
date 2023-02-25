@@ -1,7 +1,7 @@
-output "sample1" {
+output "name1" {
   value = "hello anup"
 }
 
-output "sample2" {
+output "name2" {
   value = "hello joy"
 }
