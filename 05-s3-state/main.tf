@@ -1,7 +1,7 @@
 terraform {
   backend "s3" {
     bucket = "terrafrom-ab71"
-    key    = "05-s3-state.terraform-ab71"
+    key    = "05-s3-state/terraform-ab71"
     region = "us-east-1"
   }
 }
